@@ -1,0 +1,17 @@
+{
+  "name": "poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "proxy.js",
+  "dependencies": {
+    "colors": "^1.1.0",
+    "phantom": "^0.7.2",
+    "phantomjs": "^1.9.16"    
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
